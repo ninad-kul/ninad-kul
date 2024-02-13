@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ninad Kulkarni
 - 👀 I’m interested in learning new things about Electronics and Computer Science
 - 🌱 I’m currently learning Python and Deep Learning
-- 💞️ I’m looking to collaborate on Projects on ML and DL
+- 💞️ I would love to collaborate with people having similar interests 
 - 📫 How to reach me - ninadkul.music@gmail.com
 
 <!---
